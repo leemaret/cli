@@ -1,0 +1,3 @@
+[submodule "hellor"]
+	path = hellor
+	url = git@github.com:leemaret/hellor.git

@@ -8,7 +8,7 @@ Sorted by language.
 
 ### Rust
 
-TBD
+- hellor: the default Rust Cargo hello world
 
 ### Go
 
