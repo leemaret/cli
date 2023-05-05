@@ -1,3 +1,6 @@
 [submodule "hellor"]
 	path = hellor
 	url = git@github.com:leemaret/hellor.git
+[submodule "truer"]
+	path = truer
+	url = git@github.com:leemaret/truer.git
