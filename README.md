@@ -8,7 +8,8 @@ Sorted by language.
 
 ### Rust
 
-- hellor: the default Rust Cargo hello world
+- hellor: the default Rust Cargo hello world, plus tests
+- truer: a rewrite of POSIX comman `true`
 
 ### Go
 
