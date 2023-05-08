@@ -4,3 +4,6 @@
 [submodule "truer"]
 	path = truer
 	url = git@github.com:leemaret/truer.git
+[submodule "echor"]
+	path = echor
+	url = git@github.com:leemaret/echor.git

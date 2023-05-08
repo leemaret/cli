@@ -9,7 +9,8 @@ Sorted by language.
 ### Rust
 
 - hellor: the default Rust Cargo hello world, plus tests
-- truer: a rewrite of POSIX comman `true`
+- truer: a rewrite of POSIX command `true` (and `false`)
+- echor: a rewrite of POSIX command `echo`
 
 ### Go
 
